@@ -1,3 +1,4 @@
+import React from 'react';
 export default function App() {
   return (
     <div className="min-h-screen bg-pink-50 p-6">
